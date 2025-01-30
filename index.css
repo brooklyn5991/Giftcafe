@@ -6,9 +6,9 @@ body {
     font-family: sans-serif;
 }
 
-
 .first-div {
-    background-image: url("/download.jpg");
+    /* background-image: url("/images11.jpg"); */
+    width: 100%;
     background-size: cover;
     height: 500px;
     background-repeat: no-repeat;
@@ -17,6 +17,17 @@ body {
     margin-bottom: 40px;
     
 }
+
+/* .first-div {
+    background-image: url("/download.jpg");
+    background-size: cover;
+    height: 500px;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    overflow: hidden;
+    margin-bottom: 40px;
+    
+} */
 
 .scnd-div h1 {
     color: #34302F;
